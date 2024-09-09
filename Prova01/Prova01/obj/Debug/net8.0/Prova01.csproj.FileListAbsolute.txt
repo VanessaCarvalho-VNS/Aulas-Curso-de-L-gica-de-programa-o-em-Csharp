@@ -1,0 +1,14 @@
+C:\Curso CSharp\Prova01\Prova01\bin\Debug\net8.0\Prova01.exe
+C:\Curso CSharp\Prova01\Prova01\bin\Debug\net8.0\Prova01.deps.json
+C:\Curso CSharp\Prova01\Prova01\bin\Debug\net8.0\Prova01.runtimeconfig.json
+C:\Curso CSharp\Prova01\Prova01\bin\Debug\net8.0\Prova01.dll
+C:\Curso CSharp\Prova01\Prova01\bin\Debug\net8.0\Prova01.pdb
+C:\Curso CSharp\Prova01\Prova01\obj\Debug\net8.0\Prova01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso CSharp\Prova01\Prova01\obj\Debug\net8.0\Prova01.AssemblyInfoInputs.cache
+C:\Curso CSharp\Prova01\Prova01\obj\Debug\net8.0\Prova01.AssemblyInfo.cs
+C:\Curso CSharp\Prova01\Prova01\obj\Debug\net8.0\Prova01.csproj.CoreCompileInputs.cache
+C:\Curso CSharp\Prova01\Prova01\obj\Debug\net8.0\Prova01.dll
+C:\Curso CSharp\Prova01\Prova01\obj\Debug\net8.0\refint\Prova01.dll
+C:\Curso CSharp\Prova01\Prova01\obj\Debug\net8.0\Prova01.pdb
+C:\Curso CSharp\Prova01\Prova01\obj\Debug\net8.0\Prova01.genruntimeconfig.cache
+C:\Curso CSharp\Prova01\Prova01\obj\Debug\net8.0\ref\Prova01.dll

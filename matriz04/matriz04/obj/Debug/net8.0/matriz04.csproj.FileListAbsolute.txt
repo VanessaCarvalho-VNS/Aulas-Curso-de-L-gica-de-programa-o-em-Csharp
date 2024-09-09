@@ -1,0 +1,14 @@
+C:\Curso CSharp\matriz04\matriz04\obj\Debug\net8.0\matriz04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso CSharp\matriz04\matriz04\obj\Debug\net8.0\matriz04.AssemblyInfoInputs.cache
+C:\Curso CSharp\matriz04\matriz04\obj\Debug\net8.0\matriz04.AssemblyInfo.cs
+C:\Curso CSharp\matriz04\matriz04\obj\Debug\net8.0\matriz04.csproj.CoreCompileInputs.cache
+C:\Curso CSharp\matriz04\matriz04\bin\Debug\net8.0\matriz04.exe
+C:\Curso CSharp\matriz04\matriz04\bin\Debug\net8.0\matriz04.deps.json
+C:\Curso CSharp\matriz04\matriz04\bin\Debug\net8.0\matriz04.runtimeconfig.json
+C:\Curso CSharp\matriz04\matriz04\bin\Debug\net8.0\matriz04.dll
+C:\Curso CSharp\matriz04\matriz04\bin\Debug\net8.0\matriz04.pdb
+C:\Curso CSharp\matriz04\matriz04\obj\Debug\net8.0\matriz04.dll
+C:\Curso CSharp\matriz04\matriz04\obj\Debug\net8.0\refint\matriz04.dll
+C:\Curso CSharp\matriz04\matriz04\obj\Debug\net8.0\matriz04.pdb
+C:\Curso CSharp\matriz04\matriz04\obj\Debug\net8.0\matriz04.genruntimeconfig.cache
+C:\Curso CSharp\matriz04\matriz04\obj\Debug\net8.0\ref\matriz04.dll

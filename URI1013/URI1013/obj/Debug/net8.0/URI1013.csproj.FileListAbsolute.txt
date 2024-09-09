@@ -1,0 +1,14 @@
+C:\Users\Vanessa de Carvalho\source\repos\URI1013\URI1013\bin\Debug\net8.0\URI1013.exe
+C:\Users\Vanessa de Carvalho\source\repos\URI1013\URI1013\bin\Debug\net8.0\URI1013.deps.json
+C:\Users\Vanessa de Carvalho\source\repos\URI1013\URI1013\bin\Debug\net8.0\URI1013.runtimeconfig.json
+C:\Users\Vanessa de Carvalho\source\repos\URI1013\URI1013\bin\Debug\net8.0\URI1013.dll
+C:\Users\Vanessa de Carvalho\source\repos\URI1013\URI1013\bin\Debug\net8.0\URI1013.pdb
+C:\Users\Vanessa de Carvalho\source\repos\URI1013\URI1013\obj\Debug\net8.0\URI1013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanessa de Carvalho\source\repos\URI1013\URI1013\obj\Debug\net8.0\URI1013.AssemblyInfoInputs.cache
+C:\Users\Vanessa de Carvalho\source\repos\URI1013\URI1013\obj\Debug\net8.0\URI1013.AssemblyInfo.cs
+C:\Users\Vanessa de Carvalho\source\repos\URI1013\URI1013\obj\Debug\net8.0\URI1013.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa de Carvalho\source\repos\URI1013\URI1013\obj\Debug\net8.0\URI1013.dll
+C:\Users\Vanessa de Carvalho\source\repos\URI1013\URI1013\obj\Debug\net8.0\refint\URI1013.dll
+C:\Users\Vanessa de Carvalho\source\repos\URI1013\URI1013\obj\Debug\net8.0\URI1013.pdb
+C:\Users\Vanessa de Carvalho\source\repos\URI1013\URI1013\obj\Debug\net8.0\URI1013.genruntimeconfig.cache
+C:\Users\Vanessa de Carvalho\source\repos\URI1013\URI1013\obj\Debug\net8.0\ref\URI1013.dll

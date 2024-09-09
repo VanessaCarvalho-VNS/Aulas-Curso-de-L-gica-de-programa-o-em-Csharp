@@ -1,0 +1,14 @@
+C:\Curso CSharp\repetitivaPara\repetitivaPara\bin\Debug\net8.0\repetitivaPara.exe
+C:\Curso CSharp\repetitivaPara\repetitivaPara\bin\Debug\net8.0\repetitivaPara.deps.json
+C:\Curso CSharp\repetitivaPara\repetitivaPara\bin\Debug\net8.0\repetitivaPara.runtimeconfig.json
+C:\Curso CSharp\repetitivaPara\repetitivaPara\bin\Debug\net8.0\repetitivaPara.dll
+C:\Curso CSharp\repetitivaPara\repetitivaPara\bin\Debug\net8.0\repetitivaPara.pdb
+C:\Curso CSharp\repetitivaPara\repetitivaPara\obj\Debug\net8.0\repetitivaPara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso CSharp\repetitivaPara\repetitivaPara\obj\Debug\net8.0\repetitivaPara.AssemblyInfoInputs.cache
+C:\Curso CSharp\repetitivaPara\repetitivaPara\obj\Debug\net8.0\repetitivaPara.AssemblyInfo.cs
+C:\Curso CSharp\repetitivaPara\repetitivaPara\obj\Debug\net8.0\repetitivaPara.csproj.CoreCompileInputs.cache
+C:\Curso CSharp\repetitivaPara\repetitivaPara\obj\Debug\net8.0\repetitivaPara.dll
+C:\Curso CSharp\repetitivaPara\repetitivaPara\obj\Debug\net8.0\refint\repetitivaPara.dll
+C:\Curso CSharp\repetitivaPara\repetitivaPara\obj\Debug\net8.0\repetitivaPara.pdb
+C:\Curso CSharp\repetitivaPara\repetitivaPara\obj\Debug\net8.0\repetitivaPara.genruntimeconfig.cache
+C:\Curso CSharp\repetitivaPara\repetitivaPara\obj\Debug\net8.0\ref\repetitivaPara.dll

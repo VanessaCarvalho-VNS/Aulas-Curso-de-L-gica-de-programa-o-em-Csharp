@@ -1,0 +1,14 @@
+C:\Curso CSharp\Condicional05\Condicional05\bin\Debug\net8.0\Condicional05.exe
+C:\Curso CSharp\Condicional05\Condicional05\bin\Debug\net8.0\Condicional05.deps.json
+C:\Curso CSharp\Condicional05\Condicional05\bin\Debug\net8.0\Condicional05.runtimeconfig.json
+C:\Curso CSharp\Condicional05\Condicional05\bin\Debug\net8.0\Condicional05.dll
+C:\Curso CSharp\Condicional05\Condicional05\bin\Debug\net8.0\Condicional05.pdb
+C:\Curso CSharp\Condicional05\Condicional05\obj\Debug\net8.0\Condicional05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso CSharp\Condicional05\Condicional05\obj\Debug\net8.0\Condicional05.AssemblyInfoInputs.cache
+C:\Curso CSharp\Condicional05\Condicional05\obj\Debug\net8.0\Condicional05.AssemblyInfo.cs
+C:\Curso CSharp\Condicional05\Condicional05\obj\Debug\net8.0\Condicional05.csproj.CoreCompileInputs.cache
+C:\Curso CSharp\Condicional05\Condicional05\obj\Debug\net8.0\Condicional05.dll
+C:\Curso CSharp\Condicional05\Condicional05\obj\Debug\net8.0\refint\Condicional05.dll
+C:\Curso CSharp\Condicional05\Condicional05\obj\Debug\net8.0\Condicional05.pdb
+C:\Curso CSharp\Condicional05\Condicional05\obj\Debug\net8.0\Condicional05.genruntimeconfig.cache
+C:\Curso CSharp\Condicional05\Condicional05\obj\Debug\net8.0\ref\Condicional05.dll

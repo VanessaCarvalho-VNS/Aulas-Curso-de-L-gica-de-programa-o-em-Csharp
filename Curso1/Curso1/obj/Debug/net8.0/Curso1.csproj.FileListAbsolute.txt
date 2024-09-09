@@ -1,0 +1,14 @@
+C:\Users\Vanessa de Carvalho\source\repos\Curso1\Curso1\bin\Debug\net8.0\Curso1.exe
+C:\Users\Vanessa de Carvalho\source\repos\Curso1\Curso1\bin\Debug\net8.0\Curso1.deps.json
+C:\Users\Vanessa de Carvalho\source\repos\Curso1\Curso1\bin\Debug\net8.0\Curso1.runtimeconfig.json
+C:\Users\Vanessa de Carvalho\source\repos\Curso1\Curso1\bin\Debug\net8.0\Curso1.dll
+C:\Users\Vanessa de Carvalho\source\repos\Curso1\Curso1\bin\Debug\net8.0\Curso1.pdb
+C:\Users\Vanessa de Carvalho\source\repos\Curso1\Curso1\obj\Debug\net8.0\Curso1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanessa de Carvalho\source\repos\Curso1\Curso1\obj\Debug\net8.0\Curso1.AssemblyInfoInputs.cache
+C:\Users\Vanessa de Carvalho\source\repos\Curso1\Curso1\obj\Debug\net8.0\Curso1.AssemblyInfo.cs
+C:\Users\Vanessa de Carvalho\source\repos\Curso1\Curso1\obj\Debug\net8.0\Curso1.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa de Carvalho\source\repos\Curso1\Curso1\obj\Debug\net8.0\Curso1.dll
+C:\Users\Vanessa de Carvalho\source\repos\Curso1\Curso1\obj\Debug\net8.0\refint\Curso1.dll
+C:\Users\Vanessa de Carvalho\source\repos\Curso1\Curso1\obj\Debug\net8.0\Curso1.pdb
+C:\Users\Vanessa de Carvalho\source\repos\Curso1\Curso1\obj\Debug\net8.0\Curso1.genruntimeconfig.cache
+C:\Users\Vanessa de Carvalho\source\repos\Curso1\Curso1\obj\Debug\net8.0\ref\Curso1.dll

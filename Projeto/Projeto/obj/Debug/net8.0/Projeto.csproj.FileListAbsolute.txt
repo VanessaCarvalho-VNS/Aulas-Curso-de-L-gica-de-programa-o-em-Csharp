@@ -1,0 +1,14 @@
+C:\Curso CSharp\Projeto\Projeto\obj\Debug\net8.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso CSharp\Projeto\Projeto\obj\Debug\net8.0\Projeto.AssemblyInfoInputs.cache
+C:\Curso CSharp\Projeto\Projeto\obj\Debug\net8.0\Projeto.AssemblyInfo.cs
+C:\Curso CSharp\Projeto\Projeto\obj\Debug\net8.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Curso CSharp\Projeto\Projeto\bin\Debug\net8.0\Projeto.exe
+C:\Curso CSharp\Projeto\Projeto\bin\Debug\net8.0\Projeto.deps.json
+C:\Curso CSharp\Projeto\Projeto\bin\Debug\net8.0\Projeto.runtimeconfig.json
+C:\Curso CSharp\Projeto\Projeto\bin\Debug\net8.0\Projeto.dll
+C:\Curso CSharp\Projeto\Projeto\bin\Debug\net8.0\Projeto.pdb
+C:\Curso CSharp\Projeto\Projeto\obj\Debug\net8.0\Projeto.dll
+C:\Curso CSharp\Projeto\Projeto\obj\Debug\net8.0\refint\Projeto.dll
+C:\Curso CSharp\Projeto\Projeto\obj\Debug\net8.0\Projeto.pdb
+C:\Curso CSharp\Projeto\Projeto\obj\Debug\net8.0\Projeto.genruntimeconfig.cache
+C:\Curso CSharp\Projeto\Projeto\obj\Debug\net8.0\ref\Projeto.dll

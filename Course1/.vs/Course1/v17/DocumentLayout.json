@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Curso CSharp\\Course1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F389A9F8-C6F2-44F5-8310-BC3C2262C14B}|Course1\\Course1.csproj|c:\\curso csharp\\course1\\course1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F389A9F8-C6F2-44F5-8310-BC3C2262C14B}|Course1\\Course1.csproj|solutionrelative:course1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Curso CSharp\\Course1\\Course1\\Program.cs",
+              "RelativeDocumentMoniker": "Course1\\Program.cs",
+              "ToolTip": "C:\\Curso CSharp\\Course1\\Course1\\Program.cs",
+              "RelativeToolTip": "Course1\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:43:44.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

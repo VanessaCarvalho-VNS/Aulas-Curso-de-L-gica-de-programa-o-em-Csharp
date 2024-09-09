@@ -1,0 +1,14 @@
+C:\Curso CSharp\Prova02\Prova02\bin\Debug\net8.0\Prova02.exe
+C:\Curso CSharp\Prova02\Prova02\bin\Debug\net8.0\Prova02.deps.json
+C:\Curso CSharp\Prova02\Prova02\bin\Debug\net8.0\Prova02.runtimeconfig.json
+C:\Curso CSharp\Prova02\Prova02\bin\Debug\net8.0\Prova02.dll
+C:\Curso CSharp\Prova02\Prova02\bin\Debug\net8.0\Prova02.pdb
+C:\Curso CSharp\Prova02\Prova02\obj\Debug\net8.0\Prova02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso CSharp\Prova02\Prova02\obj\Debug\net8.0\Prova02.AssemblyInfoInputs.cache
+C:\Curso CSharp\Prova02\Prova02\obj\Debug\net8.0\Prova02.AssemblyInfo.cs
+C:\Curso CSharp\Prova02\Prova02\obj\Debug\net8.0\Prova02.csproj.CoreCompileInputs.cache
+C:\Curso CSharp\Prova02\Prova02\obj\Debug\net8.0\Prova02.dll
+C:\Curso CSharp\Prova02\Prova02\obj\Debug\net8.0\refint\Prova02.dll
+C:\Curso CSharp\Prova02\Prova02\obj\Debug\net8.0\Prova02.pdb
+C:\Curso CSharp\Prova02\Prova02\obj\Debug\net8.0\Prova02.genruntimeconfig.cache
+C:\Curso CSharp\Prova02\Prova02\obj\Debug\net8.0\ref\Prova02.dll

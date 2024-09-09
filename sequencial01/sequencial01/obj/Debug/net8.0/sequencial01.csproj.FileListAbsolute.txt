@@ -1,0 +1,14 @@
+C:\Curso CSharp\sequencial01\sequencial01\bin\Debug\net8.0\sequencial01.exe
+C:\Curso CSharp\sequencial01\sequencial01\bin\Debug\net8.0\sequencial01.deps.json
+C:\Curso CSharp\sequencial01\sequencial01\bin\Debug\net8.0\sequencial01.runtimeconfig.json
+C:\Curso CSharp\sequencial01\sequencial01\bin\Debug\net8.0\sequencial01.dll
+C:\Curso CSharp\sequencial01\sequencial01\bin\Debug\net8.0\sequencial01.pdb
+C:\Curso CSharp\sequencial01\sequencial01\obj\Debug\net8.0\sequencial01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso CSharp\sequencial01\sequencial01\obj\Debug\net8.0\sequencial01.AssemblyInfoInputs.cache
+C:\Curso CSharp\sequencial01\sequencial01\obj\Debug\net8.0\sequencial01.AssemblyInfo.cs
+C:\Curso CSharp\sequencial01\sequencial01\obj\Debug\net8.0\sequencial01.csproj.CoreCompileInputs.cache
+C:\Curso CSharp\sequencial01\sequencial01\obj\Debug\net8.0\sequencial01.dll
+C:\Curso CSharp\sequencial01\sequencial01\obj\Debug\net8.0\refint\sequencial01.dll
+C:\Curso CSharp\sequencial01\sequencial01\obj\Debug\net8.0\sequencial01.pdb
+C:\Curso CSharp\sequencial01\sequencial01\obj\Debug\net8.0\sequencial01.genruntimeconfig.cache
+C:\Curso CSharp\sequencial01\sequencial01\obj\Debug\net8.0\ref\sequencial01.dll

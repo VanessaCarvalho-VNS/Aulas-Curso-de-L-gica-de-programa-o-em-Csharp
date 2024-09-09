@@ -1,0 +1,14 @@
+C:\Curso CSharp\matrizes\matrizes\bin\Debug\net8.0\matrizes.exe
+C:\Curso CSharp\matrizes\matrizes\bin\Debug\net8.0\matrizes.deps.json
+C:\Curso CSharp\matrizes\matrizes\bin\Debug\net8.0\matrizes.runtimeconfig.json
+C:\Curso CSharp\matrizes\matrizes\bin\Debug\net8.0\matrizes.dll
+C:\Curso CSharp\matrizes\matrizes\bin\Debug\net8.0\matrizes.pdb
+C:\Curso CSharp\matrizes\matrizes\obj\Debug\net8.0\matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso CSharp\matrizes\matrizes\obj\Debug\net8.0\matrizes.AssemblyInfoInputs.cache
+C:\Curso CSharp\matrizes\matrizes\obj\Debug\net8.0\matrizes.AssemblyInfo.cs
+C:\Curso CSharp\matrizes\matrizes\obj\Debug\net8.0\matrizes.csproj.CoreCompileInputs.cache
+C:\Curso CSharp\matrizes\matrizes\obj\Debug\net8.0\matrizes.dll
+C:\Curso CSharp\matrizes\matrizes\obj\Debug\net8.0\refint\matrizes.dll
+C:\Curso CSharp\matrizes\matrizes\obj\Debug\net8.0\matrizes.pdb
+C:\Curso CSharp\matrizes\matrizes\obj\Debug\net8.0\matrizes.genruntimeconfig.cache
+C:\Curso CSharp\matrizes\matrizes\obj\Debug\net8.0\ref\matrizes.dll

@@ -1,0 +1,14 @@
+C:\Curso CSharp\URI1072\URI1072\bin\Debug\net8.0\URI1072.exe
+C:\Curso CSharp\URI1072\URI1072\bin\Debug\net8.0\URI1072.deps.json
+C:\Curso CSharp\URI1072\URI1072\bin\Debug\net8.0\URI1072.runtimeconfig.json
+C:\Curso CSharp\URI1072\URI1072\bin\Debug\net8.0\URI1072.dll
+C:\Curso CSharp\URI1072\URI1072\bin\Debug\net8.0\URI1072.pdb
+C:\Curso CSharp\URI1072\URI1072\obj\Debug\net8.0\URI1072.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso CSharp\URI1072\URI1072\obj\Debug\net8.0\URI1072.AssemblyInfoInputs.cache
+C:\Curso CSharp\URI1072\URI1072\obj\Debug\net8.0\URI1072.AssemblyInfo.cs
+C:\Curso CSharp\URI1072\URI1072\obj\Debug\net8.0\URI1072.csproj.CoreCompileInputs.cache
+C:\Curso CSharp\URI1072\URI1072\obj\Debug\net8.0\URI1072.dll
+C:\Curso CSharp\URI1072\URI1072\obj\Debug\net8.0\refint\URI1072.dll
+C:\Curso CSharp\URI1072\URI1072\obj\Debug\net8.0\URI1072.pdb
+C:\Curso CSharp\URI1072\URI1072\obj\Debug\net8.0\URI1072.genruntimeconfig.cache
+C:\Curso CSharp\URI1072\URI1072\obj\Debug\net8.0\ref\URI1072.dll

@@ -1,0 +1,14 @@
+C:\Curso CSharp\URI1160\URI1160\bin\Debug\net8.0\URI1160.exe
+C:\Curso CSharp\URI1160\URI1160\bin\Debug\net8.0\URI1160.deps.json
+C:\Curso CSharp\URI1160\URI1160\bin\Debug\net8.0\URI1160.runtimeconfig.json
+C:\Curso CSharp\URI1160\URI1160\bin\Debug\net8.0\URI1160.dll
+C:\Curso CSharp\URI1160\URI1160\bin\Debug\net8.0\URI1160.pdb
+C:\Curso CSharp\URI1160\URI1160\obj\Debug\net8.0\URI1160.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso CSharp\URI1160\URI1160\obj\Debug\net8.0\URI1160.AssemblyInfoInputs.cache
+C:\Curso CSharp\URI1160\URI1160\obj\Debug\net8.0\URI1160.AssemblyInfo.cs
+C:\Curso CSharp\URI1160\URI1160\obj\Debug\net8.0\URI1160.csproj.CoreCompileInputs.cache
+C:\Curso CSharp\URI1160\URI1160\obj\Debug\net8.0\URI1160.dll
+C:\Curso CSharp\URI1160\URI1160\obj\Debug\net8.0\refint\URI1160.dll
+C:\Curso CSharp\URI1160\URI1160\obj\Debug\net8.0\URI1160.pdb
+C:\Curso CSharp\URI1160\URI1160\obj\Debug\net8.0\URI1160.genruntimeconfig.cache
+C:\Curso CSharp\URI1160\URI1160\obj\Debug\net8.0\ref\URI1160.dll

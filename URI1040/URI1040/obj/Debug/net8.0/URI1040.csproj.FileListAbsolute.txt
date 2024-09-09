@@ -1,0 +1,14 @@
+C:\Curso CSharp\URI1040\URI1040\bin\Debug\net8.0\URI1040.exe
+C:\Curso CSharp\URI1040\URI1040\bin\Debug\net8.0\URI1040.deps.json
+C:\Curso CSharp\URI1040\URI1040\bin\Debug\net8.0\URI1040.runtimeconfig.json
+C:\Curso CSharp\URI1040\URI1040\bin\Debug\net8.0\URI1040.dll
+C:\Curso CSharp\URI1040\URI1040\bin\Debug\net8.0\URI1040.pdb
+C:\Curso CSharp\URI1040\URI1040\obj\Debug\net8.0\URI1040.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso CSharp\URI1040\URI1040\obj\Debug\net8.0\URI1040.AssemblyInfoInputs.cache
+C:\Curso CSharp\URI1040\URI1040\obj\Debug\net8.0\URI1040.AssemblyInfo.cs
+C:\Curso CSharp\URI1040\URI1040\obj\Debug\net8.0\URI1040.csproj.CoreCompileInputs.cache
+C:\Curso CSharp\URI1040\URI1040\obj\Debug\net8.0\URI1040.dll
+C:\Curso CSharp\URI1040\URI1040\obj\Debug\net8.0\refint\URI1040.dll
+C:\Curso CSharp\URI1040\URI1040\obj\Debug\net8.0\URI1040.pdb
+C:\Curso CSharp\URI1040\URI1040\obj\Debug\net8.0\URI1040.genruntimeconfig.cache
+C:\Curso CSharp\URI1040\URI1040\obj\Debug\net8.0\ref\URI1040.dll

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Curso CSharp\\Prova04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1337D765-D3E4-4C9B-BB20-E063D1AC78E4}|Prova04\\Prova04.csproj|c:\\curso csharp\\prova04\\prova04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1337D765-D3E4-4C9B-BB20-E063D1AC78E4}|Prova04\\Prova04.csproj|solutionrelative:prova04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Curso CSharp\\Prova04\\Prova04\\Program.cs",
+              "RelativeDocumentMoniker": "Prova04\\Program.cs",
+              "ToolTip": "C:\\Curso CSharp\\Prova04\\Prova04\\Program.cs*",
+              "RelativeToolTip": "Prova04\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:36:23.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

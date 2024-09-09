@@ -1,0 +1,14 @@
+C:\Curso CSharp\Aula02\Aula02\bin\Debug\net8.0\Aula02.exe
+C:\Curso CSharp\Aula02\Aula02\bin\Debug\net8.0\Aula02.deps.json
+C:\Curso CSharp\Aula02\Aula02\bin\Debug\net8.0\Aula02.runtimeconfig.json
+C:\Curso CSharp\Aula02\Aula02\bin\Debug\net8.0\Aula02.dll
+C:\Curso CSharp\Aula02\Aula02\bin\Debug\net8.0\Aula02.pdb
+C:\Curso CSharp\Aula02\Aula02\obj\Debug\net8.0\Aula02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso CSharp\Aula02\Aula02\obj\Debug\net8.0\Aula02.AssemblyInfoInputs.cache
+C:\Curso CSharp\Aula02\Aula02\obj\Debug\net8.0\Aula02.AssemblyInfo.cs
+C:\Curso CSharp\Aula02\Aula02\obj\Debug\net8.0\Aula02.csproj.CoreCompileInputs.cache
+C:\Curso CSharp\Aula02\Aula02\obj\Debug\net8.0\Aula02.dll
+C:\Curso CSharp\Aula02\Aula02\obj\Debug\net8.0\refint\Aula02.dll
+C:\Curso CSharp\Aula02\Aula02\obj\Debug\net8.0\Aula02.pdb
+C:\Curso CSharp\Aula02\Aula02\obj\Debug\net8.0\Aula02.genruntimeconfig.cache
+C:\Curso CSharp\Aula02\Aula02\obj\Debug\net8.0\ref\Aula02.dll

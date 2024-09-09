@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Curso CSharp\\vetor08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D59B746-EE9F-4A28-8DED-0429187AA47E}|vetor08\\vetor08.csproj|c:\\curso csharp\\vetor08\\vetor08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D59B746-EE9F-4A28-8DED-0429187AA47E}|vetor08\\vetor08.csproj|solutionrelative:vetor08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Curso CSharp\\vetor08\\vetor08\\Program.cs",
+              "RelativeDocumentMoniker": "vetor08\\Program.cs",
+              "ToolTip": "C:\\Curso CSharp\\vetor08\\vetor08\\Program.cs",
+              "RelativeToolTip": "vetor08\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:46:28.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vanessa de Carvalho\\source\\repos\\Curso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1C47D0-7136-4E54-BF3B-E19B3305ED5B}|Curso\\Curso.csproj|c:\\users\\vanessa de carvalho\\source\\repos\\curso\\curso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1C47D0-7136-4E54-BF3B-E19B3305ED5B}|Curso\\Curso.csproj|solutionrelative:curso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vanessa de Carvalho\\source\\repos\\Curso\\Curso\\Program.cs",
+              "RelativeDocumentMoniker": "Curso\\Program.cs",
+              "ToolTip": "C:\\Users\\Vanessa de Carvalho\\source\\repos\\Curso\\Curso\\Program.cs",
+              "RelativeToolTip": "Curso\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T18:43:55.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

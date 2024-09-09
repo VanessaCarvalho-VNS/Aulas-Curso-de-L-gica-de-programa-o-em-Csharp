@@ -1,0 +1,14 @@
+C:\Users\Vanessa de Carvalho\source\repos\URI1015\URI1015\bin\Debug\net8.0\URI1015.exe
+C:\Users\Vanessa de Carvalho\source\repos\URI1015\URI1015\bin\Debug\net8.0\URI1015.deps.json
+C:\Users\Vanessa de Carvalho\source\repos\URI1015\URI1015\bin\Debug\net8.0\URI1015.runtimeconfig.json
+C:\Users\Vanessa de Carvalho\source\repos\URI1015\URI1015\bin\Debug\net8.0\URI1015.dll
+C:\Users\Vanessa de Carvalho\source\repos\URI1015\URI1015\bin\Debug\net8.0\URI1015.pdb
+C:\Users\Vanessa de Carvalho\source\repos\URI1015\URI1015\obj\Debug\net8.0\URI1015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanessa de Carvalho\source\repos\URI1015\URI1015\obj\Debug\net8.0\URI1015.AssemblyInfoInputs.cache
+C:\Users\Vanessa de Carvalho\source\repos\URI1015\URI1015\obj\Debug\net8.0\URI1015.AssemblyInfo.cs
+C:\Users\Vanessa de Carvalho\source\repos\URI1015\URI1015\obj\Debug\net8.0\URI1015.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa de Carvalho\source\repos\URI1015\URI1015\obj\Debug\net8.0\URI1015.dll
+C:\Users\Vanessa de Carvalho\source\repos\URI1015\URI1015\obj\Debug\net8.0\refint\URI1015.dll
+C:\Users\Vanessa de Carvalho\source\repos\URI1015\URI1015\obj\Debug\net8.0\URI1015.pdb
+C:\Users\Vanessa de Carvalho\source\repos\URI1015\URI1015\obj\Debug\net8.0\URI1015.genruntimeconfig.cache
+C:\Users\Vanessa de Carvalho\source\repos\URI1015\URI1015\obj\Debug\net8.0\ref\URI1015.dll

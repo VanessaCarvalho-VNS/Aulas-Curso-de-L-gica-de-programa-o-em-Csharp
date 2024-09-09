@@ -1,0 +1,14 @@
+C:\Curso CSharp\URI1080\URI1080\bin\Debug\net8.0\URI1080.exe
+C:\Curso CSharp\URI1080\URI1080\bin\Debug\net8.0\URI1080.deps.json
+C:\Curso CSharp\URI1080\URI1080\bin\Debug\net8.0\URI1080.runtimeconfig.json
+C:\Curso CSharp\URI1080\URI1080\bin\Debug\net8.0\URI1080.dll
+C:\Curso CSharp\URI1080\URI1080\bin\Debug\net8.0\URI1080.pdb
+C:\Curso CSharp\URI1080\URI1080\obj\Debug\net8.0\URI1080.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso CSharp\URI1080\URI1080\obj\Debug\net8.0\URI1080.AssemblyInfoInputs.cache
+C:\Curso CSharp\URI1080\URI1080\obj\Debug\net8.0\URI1080.AssemblyInfo.cs
+C:\Curso CSharp\URI1080\URI1080\obj\Debug\net8.0\URI1080.csproj.CoreCompileInputs.cache
+C:\Curso CSharp\URI1080\URI1080\obj\Debug\net8.0\URI1080.dll
+C:\Curso CSharp\URI1080\URI1080\obj\Debug\net8.0\refint\URI1080.dll
+C:\Curso CSharp\URI1080\URI1080\obj\Debug\net8.0\URI1080.pdb
+C:\Curso CSharp\URI1080\URI1080\obj\Debug\net8.0\URI1080.genruntimeconfig.cache
+C:\Curso CSharp\URI1080\URI1080\obj\Debug\net8.0\ref\URI1080.dll

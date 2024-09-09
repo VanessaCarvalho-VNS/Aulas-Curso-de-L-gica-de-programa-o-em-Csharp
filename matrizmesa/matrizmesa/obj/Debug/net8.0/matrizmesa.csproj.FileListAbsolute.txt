@@ -1,0 +1,14 @@
+C:\Curso CSharp\matrizmesa\matrizmesa\bin\Debug\net8.0\matrizmesa.exe
+C:\Curso CSharp\matrizmesa\matrizmesa\bin\Debug\net8.0\matrizmesa.deps.json
+C:\Curso CSharp\matrizmesa\matrizmesa\bin\Debug\net8.0\matrizmesa.runtimeconfig.json
+C:\Curso CSharp\matrizmesa\matrizmesa\bin\Debug\net8.0\matrizmesa.dll
+C:\Curso CSharp\matrizmesa\matrizmesa\bin\Debug\net8.0\matrizmesa.pdb
+C:\Curso CSharp\matrizmesa\matrizmesa\obj\Debug\net8.0\matrizmesa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso CSharp\matrizmesa\matrizmesa\obj\Debug\net8.0\matrizmesa.AssemblyInfoInputs.cache
+C:\Curso CSharp\matrizmesa\matrizmesa\obj\Debug\net8.0\matrizmesa.AssemblyInfo.cs
+C:\Curso CSharp\matrizmesa\matrizmesa\obj\Debug\net8.0\matrizmesa.csproj.CoreCompileInputs.cache
+C:\Curso CSharp\matrizmesa\matrizmesa\obj\Debug\net8.0\matrizmesa.dll
+C:\Curso CSharp\matrizmesa\matrizmesa\obj\Debug\net8.0\refint\matrizmesa.dll
+C:\Curso CSharp\matrizmesa\matrizmesa\obj\Debug\net8.0\matrizmesa.pdb
+C:\Curso CSharp\matrizmesa\matrizmesa\obj\Debug\net8.0\matrizmesa.genruntimeconfig.cache
+C:\Curso CSharp\matrizmesa\matrizmesa\obj\Debug\net8.0\ref\matrizmesa.dll

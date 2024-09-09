@@ -1,0 +1,14 @@
+C:\Users\Vanessa de Carvalho\source\repos\URI1009\URI1009\bin\Debug\net8.0\URI1009.exe
+C:\Users\Vanessa de Carvalho\source\repos\URI1009\URI1009\bin\Debug\net8.0\URI1009.deps.json
+C:\Users\Vanessa de Carvalho\source\repos\URI1009\URI1009\bin\Debug\net8.0\URI1009.runtimeconfig.json
+C:\Users\Vanessa de Carvalho\source\repos\URI1009\URI1009\bin\Debug\net8.0\URI1009.dll
+C:\Users\Vanessa de Carvalho\source\repos\URI1009\URI1009\bin\Debug\net8.0\URI1009.pdb
+C:\Users\Vanessa de Carvalho\source\repos\URI1009\URI1009\obj\Debug\net8.0\URI1009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanessa de Carvalho\source\repos\URI1009\URI1009\obj\Debug\net8.0\URI1009.AssemblyInfoInputs.cache
+C:\Users\Vanessa de Carvalho\source\repos\URI1009\URI1009\obj\Debug\net8.0\URI1009.AssemblyInfo.cs
+C:\Users\Vanessa de Carvalho\source\repos\URI1009\URI1009\obj\Debug\net8.0\URI1009.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa de Carvalho\source\repos\URI1009\URI1009\obj\Debug\net8.0\URI1009.dll
+C:\Users\Vanessa de Carvalho\source\repos\URI1009\URI1009\obj\Debug\net8.0\refint\URI1009.dll
+C:\Users\Vanessa de Carvalho\source\repos\URI1009\URI1009\obj\Debug\net8.0\URI1009.pdb
+C:\Users\Vanessa de Carvalho\source\repos\URI1009\URI1009\obj\Debug\net8.0\URI1009.genruntimeconfig.cache
+C:\Users\Vanessa de Carvalho\source\repos\URI1009\URI1009\obj\Debug\net8.0\ref\URI1009.dll

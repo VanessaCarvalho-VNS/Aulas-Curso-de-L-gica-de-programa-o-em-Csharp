@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Curso CSharp\\matriz07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0532E7A7-E05B-434C-930D-EC6D581C33D3}|matriz07\\matriz07.csproj|c:\\curso csharp\\matriz07\\matriz07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0532E7A7-E05B-434C-930D-EC6D581C33D3}|matriz07\\matriz07.csproj|solutionrelative:matriz07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Curso CSharp\\matriz07\\matriz07\\Program.cs",
+              "RelativeDocumentMoniker": "matriz07\\Program.cs",
+              "ToolTip": "C:\\Curso CSharp\\matriz07\\matriz07\\Program.cs",
+              "RelativeToolTip": "matriz07\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:45:08.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

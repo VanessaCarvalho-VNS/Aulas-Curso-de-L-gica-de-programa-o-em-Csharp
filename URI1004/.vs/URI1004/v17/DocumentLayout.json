@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vanessa de Carvalho\\source\\repos\\URI1004\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9456DD-6105-42F5-8030-94EB6AE5DFA5}|URI1004\\URI1004.csproj|c:\\users\\vanessa de carvalho\\source\\repos\\uri1004\\uri1004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9456DD-6105-42F5-8030-94EB6AE5DFA5}|URI1004\\URI1004.csproj|solutionrelative:uri1004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vanessa de Carvalho\\source\\repos\\URI1004\\URI1004\\Program.cs",
+              "RelativeDocumentMoniker": "URI1004\\Program.cs",
+              "ToolTip": "C:\\Users\\Vanessa de Carvalho\\source\\repos\\URI1004\\URI1004\\Program.cs",
+              "RelativeToolTip": "URI1004\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T19:33:59.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

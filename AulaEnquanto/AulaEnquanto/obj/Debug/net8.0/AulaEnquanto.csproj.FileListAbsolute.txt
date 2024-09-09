@@ -1,0 +1,14 @@
+C:\Curso CSharp\AulaEnquanto\AulaEnquanto\obj\Debug\net8.0\AulaEnquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso CSharp\AulaEnquanto\AulaEnquanto\obj\Debug\net8.0\AulaEnquanto.AssemblyInfoInputs.cache
+C:\Curso CSharp\AulaEnquanto\AulaEnquanto\obj\Debug\net8.0\AulaEnquanto.AssemblyInfo.cs
+C:\Curso CSharp\AulaEnquanto\AulaEnquanto\obj\Debug\net8.0\AulaEnquanto.csproj.CoreCompileInputs.cache
+C:\Curso CSharp\AulaEnquanto\AulaEnquanto\bin\Debug\net8.0\AulaEnquanto.exe
+C:\Curso CSharp\AulaEnquanto\AulaEnquanto\bin\Debug\net8.0\AulaEnquanto.deps.json
+C:\Curso CSharp\AulaEnquanto\AulaEnquanto\bin\Debug\net8.0\AulaEnquanto.runtimeconfig.json
+C:\Curso CSharp\AulaEnquanto\AulaEnquanto\bin\Debug\net8.0\AulaEnquanto.dll
+C:\Curso CSharp\AulaEnquanto\AulaEnquanto\bin\Debug\net8.0\AulaEnquanto.pdb
+C:\Curso CSharp\AulaEnquanto\AulaEnquanto\obj\Debug\net8.0\AulaEnquanto.dll
+C:\Curso CSharp\AulaEnquanto\AulaEnquanto\obj\Debug\net8.0\refint\AulaEnquanto.dll
+C:\Curso CSharp\AulaEnquanto\AulaEnquanto\obj\Debug\net8.0\AulaEnquanto.pdb
+C:\Curso CSharp\AulaEnquanto\AulaEnquanto\obj\Debug\net8.0\AulaEnquanto.genruntimeconfig.cache
+C:\Curso CSharp\AulaEnquanto\AulaEnquanto\obj\Debug\net8.0\ref\AulaEnquanto.dll

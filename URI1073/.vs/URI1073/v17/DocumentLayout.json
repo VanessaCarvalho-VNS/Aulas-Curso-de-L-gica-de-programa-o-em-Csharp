@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Curso CSharp\\URI1073\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B83CD59F-20B7-4218-8175-086357D1FA01}|URI1073\\URI1073.csproj|c:\\curso csharp\\uri1073\\uri1073\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83CD59F-20B7-4218-8175-086357D1FA01}|URI1073\\URI1073.csproj|solutionrelative:uri1073\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Curso CSharp\\URI1073\\URI1073\\Program.cs",
+              "RelativeDocumentMoniker": "URI1073\\Program.cs",
+              "ToolTip": "C:\\Curso CSharp\\URI1073\\URI1073\\Program.cs",
+              "RelativeToolTip": "URI1073\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:11:46.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

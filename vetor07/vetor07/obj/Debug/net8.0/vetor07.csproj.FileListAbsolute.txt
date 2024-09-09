@@ -1,0 +1,14 @@
+C:\Curso CSharp\vetor07\vetor07\bin\Debug\net8.0\vetor07.exe
+C:\Curso CSharp\vetor07\vetor07\bin\Debug\net8.0\vetor07.deps.json
+C:\Curso CSharp\vetor07\vetor07\bin\Debug\net8.0\vetor07.runtimeconfig.json
+C:\Curso CSharp\vetor07\vetor07\bin\Debug\net8.0\vetor07.dll
+C:\Curso CSharp\vetor07\vetor07\bin\Debug\net8.0\vetor07.pdb
+C:\Curso CSharp\vetor07\vetor07\obj\Debug\net8.0\vetor07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso CSharp\vetor07\vetor07\obj\Debug\net8.0\vetor07.AssemblyInfoInputs.cache
+C:\Curso CSharp\vetor07\vetor07\obj\Debug\net8.0\vetor07.AssemblyInfo.cs
+C:\Curso CSharp\vetor07\vetor07\obj\Debug\net8.0\vetor07.csproj.CoreCompileInputs.cache
+C:\Curso CSharp\vetor07\vetor07\obj\Debug\net8.0\vetor07.dll
+C:\Curso CSharp\vetor07\vetor07\obj\Debug\net8.0\refint\vetor07.dll
+C:\Curso CSharp\vetor07\vetor07\obj\Debug\net8.0\vetor07.pdb
+C:\Curso CSharp\vetor07\vetor07\obj\Debug\net8.0\vetor07.genruntimeconfig.cache
+C:\Curso CSharp\vetor07\vetor07\obj\Debug\net8.0\ref\vetor07.dll

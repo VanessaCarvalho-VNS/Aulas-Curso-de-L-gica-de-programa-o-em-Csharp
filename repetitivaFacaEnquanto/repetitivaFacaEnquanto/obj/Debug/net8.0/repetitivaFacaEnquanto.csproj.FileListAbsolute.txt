@@ -1,0 +1,14 @@
+C:\Curso CSharp\repetitivaFacaEnquanto\repetitivaFacaEnquanto\bin\Debug\net8.0\repetitivaFacaEnquanto.exe
+C:\Curso CSharp\repetitivaFacaEnquanto\repetitivaFacaEnquanto\bin\Debug\net8.0\repetitivaFacaEnquanto.deps.json
+C:\Curso CSharp\repetitivaFacaEnquanto\repetitivaFacaEnquanto\bin\Debug\net8.0\repetitivaFacaEnquanto.runtimeconfig.json
+C:\Curso CSharp\repetitivaFacaEnquanto\repetitivaFacaEnquanto\bin\Debug\net8.0\repetitivaFacaEnquanto.dll
+C:\Curso CSharp\repetitivaFacaEnquanto\repetitivaFacaEnquanto\bin\Debug\net8.0\repetitivaFacaEnquanto.pdb
+C:\Curso CSharp\repetitivaFacaEnquanto\repetitivaFacaEnquanto\obj\Debug\net8.0\repetitivaFacaEnquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso CSharp\repetitivaFacaEnquanto\repetitivaFacaEnquanto\obj\Debug\net8.0\repetitivaFacaEnquanto.AssemblyInfoInputs.cache
+C:\Curso CSharp\repetitivaFacaEnquanto\repetitivaFacaEnquanto\obj\Debug\net8.0\repetitivaFacaEnquanto.AssemblyInfo.cs
+C:\Curso CSharp\repetitivaFacaEnquanto\repetitivaFacaEnquanto\obj\Debug\net8.0\repetitivaFacaEnquanto.csproj.CoreCompileInputs.cache
+C:\Curso CSharp\repetitivaFacaEnquanto\repetitivaFacaEnquanto\obj\Debug\net8.0\repetitivaFacaEnquanto.dll
+C:\Curso CSharp\repetitivaFacaEnquanto\repetitivaFacaEnquanto\obj\Debug\net8.0\refint\repetitivaFacaEnquanto.dll
+C:\Curso CSharp\repetitivaFacaEnquanto\repetitivaFacaEnquanto\obj\Debug\net8.0\repetitivaFacaEnquanto.pdb
+C:\Curso CSharp\repetitivaFacaEnquanto\repetitivaFacaEnquanto\obj\Debug\net8.0\repetitivaFacaEnquanto.genruntimeconfig.cache
+C:\Curso CSharp\repetitivaFacaEnquanto\repetitivaFacaEnquanto\obj\Debug\net8.0\ref\repetitivaFacaEnquanto.dll
